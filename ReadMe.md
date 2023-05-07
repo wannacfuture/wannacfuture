@@ -44,3 +44,5 @@
 #### Skilled in JavaScript, Python, and Ruby. Consistently receives positive feedback with a 9.5/10 satisfaction rating.
 
 **_Visit [my website](https://haraldanderson.vercel.app) to learn more about me!_**
+
+I ❤️ photographing! I can use a video camera but I wouldn’t call myself a photographer.
