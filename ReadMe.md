@@ -37,6 +37,10 @@
 
 ## About me
 
-Experienced fullstack engineer with 8 years of web development experience. Delivered 50+ high-quality, userfriendly applications that drive results. Skilled in JavaScript, Python, and Ruby. Consistently receives positive feedback with a 9.5/10 satisfaction rating.
+#### Experienced fullstack engineer with 8 years of web development experience.
+
+#### Delivered 50+ high-quality, userfriendly applications that drive results.
+
+#### Skilled in JavaScript, Python, and Ruby. Consistently receives positive feedback with a 9.5/10 satisfaction rating.
 
 **_Visit [my website](https://haraldanderson.vercel.app) to learn more about me!_**
