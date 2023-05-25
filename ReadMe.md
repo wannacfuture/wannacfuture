@@ -43,4 +43,4 @@
 
 #### Skilled in JavaScript, Python, and Ruby. Consistently receives positive feedback with a 9.5/10 satisfaction rating.
 
-**_I ❤️ photographing! I can use a video camera but I wouldn’t call myself a photographer._**
+**_ I ❤️love you != I only ❤️love you_**
