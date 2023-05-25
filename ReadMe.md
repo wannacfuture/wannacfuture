@@ -40,14 +40,24 @@
 #### Always love challenges and solving complicated technical issues.
 #### Potentially put emphasis on team collaboration and cooperation.
 #### Continuously keep up to date with modern technologies frameworks and standards.
-* 👑   My Github Reports:
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&hide_langs_below=3&theme=default&line_height=27&layout=compact" alt="My Top langs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mastercodercat&count_private=true&include_all_commits=true&line_height=21" alt="My Github Stats" />
+## My GitHub Stats 📊
+<p align="center">
+	<a href="https://github.com/mastercodercat">
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat" />
+	</a>
 </p>
-<p>
+<p align="center">
+	<a href="https://github.com/mastercodercat">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
+	</a>
+	<a href="https://github.com/mastercodercat">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastercodercat&show_icons=true&theme=dracula" />
+	</a>
+</p>
 
+<p align="center">
+	<img src="https://visitor-badge.glitch.me/badge?page_id=mastercodercat.mastercodercat" alt="visitor count"/>
 </p>
 
 **_I ❤️love you !== I only ❤️love you_**
