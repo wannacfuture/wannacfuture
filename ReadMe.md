@@ -44,7 +44,7 @@
 
 * 👑   My Github Reports:
 
-<p align="center">
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannacfuture&hide_langs_below=3&theme=default&line_height=27&layout=compact" alt="My Top langs" />
 </p>
 <p>
