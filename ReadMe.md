@@ -51,4 +51,4 @@
 **_I ❤️love you !== I only ❤️love you_**
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darik9pl&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannacfuture&show_icons=true&theme=tokyonight)
