@@ -47,7 +47,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannacfuture&hide_langs_below=1&theme=default&line_height=27&layout=compact" alt="My Top langs" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wannacfuture&hide=prs&count_private=true&include_all_commits=true&line_height=21" alt="My Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=wannacfuture&column=7" alt="My Github Trophy" />
 </p>
 
 
