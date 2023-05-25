@@ -34,27 +34,20 @@
 </td>
 </tr>
 </table>
-
-* 👑   My Github Reports:
-<div style="display:flex; flex-direction:column">
-<div>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannacfuture&hide_langs_below=3&theme=default&line_height=27&layout=compact" alt="My Top langs" />
-</p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannacfuture&hide=prs&count_private=true&include_all_commits=true&line_height=21" alt="My Github Stats" />
-</p>
-</div>
- <div>
 ## About me
 
 #### Experienced fullstack engineer with 8 years of web development experience.
 #### Always love challenges and solving complicated technical issues.
 #### Potentially put emphasis on team collaboration and cooperation.
 #### Continuously keep up to date with modern technologies frameworks and standards.
+* 👑   My Github Reports:
 
-  </div>
-</div>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannacfuture&hide_langs_below=3&theme=default&line_height=27&layout=compact" alt="My Top langs" />
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannacfuture&hide=prs&count_private=true&include_all_commits=true&line_height=21" alt="My Github Stats" />
+</p>
 
 **_I ❤️love you !== I only ❤️love you_**
 
