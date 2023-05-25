@@ -38,11 +38,6 @@
 ## About me
 
 #### Experienced fullstack engineer with 8 years of web development experience.
-
-#### Delivered 50+ high-quality, userfriendly applications that drive results.
-
-#### Skilled in JavaScript, Python, and Ruby. Consistently receives positive feedback with a 9.5/10 satisfaction rating.
-
 #### Always love challenges and solving complicated technical issues.
 #### Potentially put emphasis on team collaboration and cooperation.
 #### Continuously keep up to date with modern technologies frameworks and standards.
