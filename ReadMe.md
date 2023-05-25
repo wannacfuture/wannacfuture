@@ -43,8 +43,8 @@
 * 👑   My Github Reports:
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannacfuture&hide_langs_below=3&theme=default&line_height=27&layout=compact" alt="My Top langs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wannacfuture&count_private=true&include_all_commits=true&line_height=21" alt="My Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&hide_langs_below=3&theme=default&line_height=27&layout=compact" alt="My Top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mastercodercat&count_private=true&include_all_commits=true&line_height=21" alt="My Github Stats" />
 </p>
 <p>
 
