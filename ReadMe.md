@@ -43,4 +43,9 @@
 
 #### Skilled in JavaScript, Python, and Ruby. Consistently receives positive feedback with a 9.5/10 satisfaction rating.
 
-**_ I ❤️love you != I only ❤️love you_**
+#### Always love challenges and solving complicated technical issues.
+#### Potentially put emphasis on team collaboration and cooperation.
+#### Continuously keep up to date with modern technologies frameworks and standards.
+
+
+**_I ❤️love you != I only ❤️love you_**
