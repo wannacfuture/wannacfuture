@@ -11,15 +11,15 @@
 
 ## My GitHub Stats 📊
 <p align="center">
-	<a href="https://github.com/mastercodercat">
+	<a href="https://github.com/wannacfuture">
 		<img align="center" src="https://github-profile-trophy.vercel.app/?username=wannacfuture" />
 	</a>
 </p>
 <p align="center">
-	<a href="https://github.com/mastercodercat">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannacfuture&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
+	<a href="https://github.com/wannacfuture">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
 	</a>
-	<a href="https://github.com/mastercodercat">
+	<a href="https://github.com/wannacfuture">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannacfuture&hide=prs&show_icons=true&count_private=true&include_all_commits=true&line_height=29&theme=dracula" alt="wannacfuture's Github Stats" />
 	</a>
 </p>
