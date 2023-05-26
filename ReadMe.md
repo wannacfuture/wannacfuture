@@ -28,6 +28,6 @@
 	<img src="https://visitor-badge.glitch.me/badge?page_id=wannacfuture.wannacfuture" alt="visitor count"/>
 </p>
 
-**_I ❤️love you !== I only ❤️love you_**
+**_I ❤️ you !== I only ❤️ you_**
 
 
