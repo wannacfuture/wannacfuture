@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-	![Visitor Count](https://profile-counter.glitch.me/wannacfuture/count.svg)
+	<img align="center" src="https://profile-counter.glitch.me/wannacfuture/count.svg" alt="wannacfuture's Github visitor Counts" />
 </p>
 
 **_I ❤️ you !== I only ❤️ you_**
