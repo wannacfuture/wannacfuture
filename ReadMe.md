@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-	![Profile views](https://visitor-badge.glitch.me/badge?page_id=wannacfuture.wannacfuture)
+	![Visitor Count](https://profile-counter.glitch.me/wannacfuture/count.svg
 </p>
 
 **_I ❤️ you !== I only ❤️ you_**
