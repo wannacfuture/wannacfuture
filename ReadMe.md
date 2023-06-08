@@ -12,7 +12,7 @@
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/wannacfuture">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=wannacfuture&title=MultiLanguage,Commits,Stars,Followers,Organizations,Repositories" />
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=wannacfuture" />
 	</a>
 </p>
 <p align="center">
