@@ -23,6 +23,11 @@
 		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wannacfuture&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dracula" alt="wannacfuture's Github Stats" />
 	</a>
 </p>
+<div align="center">
+  <a href="https://github.com/starlitnightsky">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=starlitnightsky&theme=dracula" />
+  </a>
+</div>
 
 <p align="center">
 	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/wannacfuture/count.svg" alt="wannacfuture's Github visitor Counts" />
