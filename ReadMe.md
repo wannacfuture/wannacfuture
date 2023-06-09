@@ -25,7 +25,7 @@
 </p>
 <div align="center">
   <a href="https://github.com/starlitnightsky">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=starlitnightsky&theme=dracula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=wannacfuture&theme=dracula" />
   </a>
 </div>
 
