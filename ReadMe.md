@@ -24,7 +24,10 @@
 	</a>
 </p>
 <div align="center">
-	<p>- My Contributions -</p>
+	<p style="
+    font-size: 25px;
+    font-weight: 900;
+">- My Contributions -</p>
   <a href="https://github.com/starlitnightsky">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=wannacfuture&theme=dracula" />
   </a>
