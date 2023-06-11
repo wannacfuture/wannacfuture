@@ -23,7 +23,7 @@
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannacfuture&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dracula" alt="wannacfuture's Github Stats" />
 	</a>
 </p>
-<div align="center">
+<div align="center" style="font-size: 25px;font-weight: 900;">
 	<p style="font-size: 25px;font-weight: 900;">- My Contributions -</p>
   <a href="https://github.com/starlitnightsky">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=wannacfuture&theme=dracula" />
