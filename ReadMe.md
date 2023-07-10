@@ -4,7 +4,7 @@
 
 ## About me
 
-#### Experienced fullstack engineer with 8 years of web development experience.
+#### Experienced fullstack engineer with 9 years of web development experience.
 #### Always love challenges and solving complicated technical issues.
 #### Potentially put emphasis on team collaboration and cooperation.
 #### Continuously keep up to date with modern technologies frameworks and standards.
