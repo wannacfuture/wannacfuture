@@ -8,7 +8,7 @@
 #### Always love challenges and solving complicated technical issues.
 #### Potentially put emphasis on team collaboration and cooperation.
 #### Continuously keep up to date with modern technologies frameworks and standards.
-***My favourite quote: There is no Ctrl-Z in life.***
+# ***My favourite quote: There is no Ctrl-Z in life.***
 
 ## My GitHub Stats 📊
 <p align="center">
