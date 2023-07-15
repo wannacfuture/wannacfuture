@@ -35,5 +35,5 @@
 </p>
 
 
-# ***My favourite quote: There is no Ctrl-Z in life.***
+# ***One man’s crappy software is another man’s full-time job.***
 
